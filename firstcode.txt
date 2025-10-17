@@ -1,3 +1,19 @@
 keep smiling
 don't forget smile today
 jnjwkjlnjlkdnlq
+
+1) newrep pra
+settings -left coll-click -(github username) -mail acc
+
+
+open cmd 
+git clone  rep url
+
+
+chnages flo-cmd 
+git add .
+git commit -m "first"
+ git push -u origin main
+
+
+
